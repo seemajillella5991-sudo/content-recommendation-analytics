@@ -53,6 +53,16 @@ Key analysis performed:
 
 ---
 
+### 📊 Churn by Contract Type
+![Churn by Contract](images/churn_contract.png)
+
+### 💳 Churn by Payment Method
+![Churn by Payment](images/churn_payment_method.png)
+
+### 🛠️ Churn by Services Used
+![Churn by Services](images/churn_services.png)
+
+
 ## 💡 Key Insights
 
 - Customers on **month-to-month contracts** churn the most
@@ -94,9 +104,23 @@ See: `sql_queries.sql`
 
 ---
 
+
 ## 📁 Project Structure
 
-
+Customer-Churn-Analysis/
+│
+├── churn_analysis.ipynb
+├── sql_queries.sql
+├── README.md
+│
+├── data/
+│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── clean_churn_data.csv
+│
+├── images/
+│   ├── churn_contract.png
+│   ├── churn_payment_method.png
+│   └── churn_services.png
 
 
 ---
