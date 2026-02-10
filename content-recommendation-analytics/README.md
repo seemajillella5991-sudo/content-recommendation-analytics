@@ -28,7 +28,7 @@ Data visualization & business insights
 
 Synthetic dataset design
 
-📂 Repository Structure
+## 📂 Repository Structure
 content-recommendation-analytics/
 │
 ├── data/
