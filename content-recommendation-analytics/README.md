@@ -1,4 +1,4 @@
-Content Recommendation & Watch Behavior Analytics Using Python
+# Content Recommendation & Watch Behavior Analytics Using Python
 🎯 Project Overview
 
 This project simulates a streaming platform analytics scenario.
