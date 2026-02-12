@@ -59,18 +59,6 @@ content-recommendation-analytics/
 └── .gitignore
 
 
-content-recommendation-analytics/
-│
-├── .gitignore
-├── README.md
-│
-├── data/
-│   ├── content_catalog.csv  
-│   └── user_watch_history.csv
-│
-├── notebooks/
-│   ├── 01_data_generation.ipynb 
-│   └── 02_eda_watch_patterns.ipynb 
 
 How I approached this project
 
